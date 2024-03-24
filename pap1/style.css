@@ -1,0 +1,44 @@
+#n1{
+    background-color: aqua;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0;
+}
+h1{
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+li{
+    display: inline-block;
+    margin-right: 50px;
+    font-size: larger;
+}
+section{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    font-family: sans-serif;
+    text-align: center;
+}
+#hf{
+    padding: 20px;
+    text-align: center;
+    background-color: aqua;
+    margin-top: 50px;
+}
+#f1{
+    margin-top: 10px;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+figure{
+    text-align: center;
+    width: 200;
+    height: 300;
+}
