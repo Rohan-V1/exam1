@@ -1,9 +1,9 @@
 form{
     background-color: lightgray;
-    border: 2px;
-    border-style: groove;
+    border: none;
     border-radius: 20px;
     padding: 10px;
+    box-shadow: 0 0 10px rgba(0 , 0, 0.5);
 }
 body{
     padding-left: 400px;
@@ -22,3 +22,5 @@ label{
     width: 100px;
     border-radius: 10px;
 }
+.b1:hover{
+    background-color: green;
