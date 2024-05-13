@@ -1,10 +1,8 @@
-str=input("Enter the string: ")
-d={}
-print("String: ",str)
+str=input("Enter the string value: ")
+f={}
 for i in str:
-    if i in d:
-        d[i]+=1
+    if(i in f):
+        f[i]+=1
     else:
-        d[i]=1
-print("Frequency: ",d)  
-
+        f[i]=1
+print(f)            
